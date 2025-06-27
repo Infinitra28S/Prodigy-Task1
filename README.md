@@ -1,4 +1,4 @@
-# Prodigy-Task1
+# Prodigy-CS Task1
 Prodigy Internship task1 Caesar Cipher Implementation
 A simple Caesar Cipher implementation that shifts each letter in the message by a given number of positions in the alphabet. Supports encryption and decryption.
 
