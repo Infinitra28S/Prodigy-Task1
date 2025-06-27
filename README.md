@@ -12,6 +12,9 @@ Enter your message: good morning this is panda.
 Enter shift value (e.g. 3): 5 
 🔓 Decrypted message: bjjy hjmidib ocdn dn kviyv.
 
+Technologies used:
+Python
+
 # This code implements a simple Caesar cipher for text encryption and decryption.
 # It shifts letters by a specified value while leaving non-alphabetic characters unchanged.
 # The user can choose to encrypt or decrypt a message based on their input.
